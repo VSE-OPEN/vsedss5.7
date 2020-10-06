@@ -8889,8 +8889,8 @@
                     <ServiceInformation>
                         <ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
                         <ServiceName>
-                            <Name xml:lang="fr"/>
-                            <Name xml:lang="en"/>
+                            <Name xml:lang="fr">FIX DSS 5.7</Name>
+                            <Name xml:lang="en">FIX DSS 5.7</Name>
                         </ServiceName>
                         <ServiceDigitalIdentity>
                             <DigitalId>
