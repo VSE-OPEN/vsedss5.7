@@ -4731,7 +4731,7 @@
                 </TSPService>
             </TSPServices>
         </TrustServiceProvider>
-        <TrustServiceProvider>
+        <!--<TrustServiceProvider>
             <TSPInformation>
                 <TSPName>
                     <Name xml:lang="fr">Certinomis</Name>
@@ -4801,7 +4801,7 @@
                     </ServiceInformation>
                 </TSPService>
             </TSPServices>
-        </TrustServiceProvider>
+        </TrustServiceProvider>-->
         <!--<TrustServiceProvider>
             <TSPInformation>
                 <TSPName>
