@@ -2317,7 +2317,7 @@
                 </TSPService>
             </TSPServices>
         </TrustServiceProvider>
-        <TrustServiceProvider>
+        <!--<TrustServiceProvider>
             <TSPInformation>
                 <TSPName>
                     <Name xml:lang="fr">Agence Nationale des Titres Sécurisés</Name>
@@ -2387,7 +2387,7 @@
                     </ServiceInformation>
                 </TSPService>
             </TSPServices>
-        </TrustServiceProvider>
+        </TrustServiceProvider>-->
         <TrustServiceProvider>
             <TSPInformation>
                 <TSPName>
