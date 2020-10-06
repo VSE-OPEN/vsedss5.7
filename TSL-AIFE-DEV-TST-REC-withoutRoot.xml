@@ -5796,7 +5796,7 @@
                 </TSPService>
             </TSPServices>
         </TrustServiceProvider>
-        <TrustServiceProvider>
+        <!--<TrustServiceProvider>
             <TSPInformation>
                 <TSPName>
                     <Name xml:lang="fr">OpenTrust</Name>
@@ -5866,8 +5866,8 @@
                     </ServiceInformation>
                 </TSPService>
             </TSPServices>
-        </TrustServiceProvider>
-        <TrustServiceProvider>
+        </TrustServiceProvider>-->
+        <!--<TrustServiceProvider>
             <TSPInformation>
                 <TSPName>
                     <Name xml:lang="fr">OpenTrust</Name>
@@ -5937,7 +5937,7 @@
                     </ServiceInformation>
                 </TSPService>
             </TSPServices>
-        </TrustServiceProvider>
+        </TrustServiceProvider>-->
         <TrustServiceProvider>
             <TSPInformation>
                 <TSPName>
