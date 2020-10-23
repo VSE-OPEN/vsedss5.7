@@ -11159,7 +11159,7 @@
             <TSPServices>
                 <TSPService>
                     <ServiceInformation>
-                        <ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+                        <ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/PKC</ServiceTypeIdentifier>
                         <ServiceName>
                             <Name xml:lang="fr">TEST VSE NON QUALIFIED CA</Name>
                             <Name xml:lang="en">TEST VSE NON QUALIFIED CA</Name>
