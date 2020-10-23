@@ -3311,7 +3311,7 @@
                 </TSPService>
             </TSPServices>
         </TrustServiceProvider>-->
-        <TrustServiceProvider>
+        <!--<TrustServiceProvider>
             <TSPInformation>
                 <TSPName>
                     <Name xml:lang="fr">KEYNECTIS</Name>
@@ -3381,7 +3381,7 @@
                     </ServiceInformation>
                 </TSPService>
             </TSPServices>
-        </TrustServiceProvider>
+        </TrustServiceProvider>-->
         <!--<TrustServiceProvider>
             <TSPInformation>
                 <TSPName>
